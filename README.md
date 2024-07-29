@@ -4,20 +4,20 @@ The UtahRealEstate project involves the development of a comprehensive database 
 
 ## Features
 Comprehensive Data Models: 
-1. Objectives and Goals:
-- Developed to enhance data integrity, reduce redundancy, and improve query performance.
+- Objectives and Goals:
+  - Developed to enhance data integrity, reduce redundancy, and improve query performance.
   
-2. Data Model Details:
-- Key entities include properties, agents, listings, and transactions.
-- Developed conceptual, logical, and physical data models using Lucidspark.
-- Applied normalization up to the third normal form (3NF) to minimize redundancy.
+- Data Model Details:
+  - Key entities include properties, agents, listings, and transactions.
+  - Developed conceptual, logical, and physical data models using Lucidspark.
+  - Applied normalization up to the third normal form (3NF) to minimize redundancy.
 
-3. Performance Improvements:
-- Achieved a 25% reduction in query response times through optimized indexing and efficient schema design.
-  
-4. Data Integrity and Consistency:
-- Implemented primary and foreign key constraints to maintain data integrity.
-- Used unique constraints and check constraints to enforce data consistency.
+- Performance Improvements:
+  - Achieved a 25% reduction in query response times through optimized indexing and efficient schema design.
+    
+- Data Integrity and Consistency:
+  - Implemented primary and foreign key constraints to maintain data integrity.
+  - Used unique constraints and check constraints to enforce data consistency.
 
 PostgreSQL Implementation: 
 - Translated data models into a PostgreSQL database.
