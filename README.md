@@ -5,7 +5,7 @@ The UtahRealEstate project involves the development of a comprehensive database 
 ## Features
 Comprehensive Data Models: 
 - Objectives and Goals:
-  - Develop to enhance data integrity, reduce redundancy, and improve query performance.
+  - Develop and enhance data integrity, reduce redundancy, and improve query performance.
   
 - Data Model Details:
   - Key entities include properties, agents, listings, and transactions.
